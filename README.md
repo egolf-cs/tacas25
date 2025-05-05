@@ -7,4 +7,4 @@ __Tool.__ [[Link]](https://zenodo.org/records/14618423)
 
 __Slides.__ [[Posted After Conference]]()
 
-__Poster.__ [[./poster.pdf]]()
+__Poster.__ [[Link]](./poster.pdf)
